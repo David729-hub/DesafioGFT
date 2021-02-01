@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Exercio2e3GFT
 {
@@ -7,14 +8,19 @@ namespace Exercio2e3GFT
          
         static void Main(string[] args)
         {
+            List<Livro> livros = new List<Livro>();
+            List<VideoGame> videogames = new List<VideoGame>();
+
             double imposto = 0;
             int opcao = 0;
             string verificausado = "";
             Livro livro = new Livro();
             VideoGame game = new VideoGame();
+            Loja loja = new Loja();
            
                 Console.WriteLine("Adiconar um Livro - Digite 1");
                 Console.WriteLine("Adiconar um VideoGame - Digite 2");
+                Console.WriteLine("Adiconar uma Loja - Digite 3");
                 Console.WriteLine("----------------------------------");
                 Console.WriteLine("Qual a sua opção? ");
                 opcao = Convert.ToInt32(Console.ReadLine());
@@ -35,6 +41,9 @@ namespace Exercio2e3GFT
                         livro.QtdPag = Convert.ToInt32(Console.ReadLine());
                         imposto = cobrarImposto();
                         Console.WriteLine("Imposto = " + imposto.ToString());
+                        livro.Preco += imposto;
+                        Console.WriteLine("Preço com imposto = " + livro.Preco.ToString());
+                        livros.Add(livro);
                         break;
                     case 2:
                         Console.WriteLine("Qual o nome do VideoGame: ");
@@ -51,8 +60,17 @@ namespace Exercio2e3GFT
                         if (verificausado == "s") { game.IsUsado = true; } else { game.IsUsado = false; }
                         imposto = cobrarImposto();
                         Console.WriteLine("Imposto = " + imposto.ToString());
-                        break;
-                    default:
+                        game.Preco += imposto;
+                        Console.WriteLine("Preço com imposto = " + game.Preco.ToString());
+                        videogames.Add(game);
+                    break;
+                case 3:
+                    Console.WriteLine("Qual o nome da Loja: ");
+                    loja.Nome = Console.ReadLine();
+                    Console.WriteLine("Qual o cnpj da loja: ");
+                    loja.Cnpj = Console.ReadLine();
+                    break;
+                default:
                     Console.WriteLine("opcao incorreta!!!");
                     break;
                 double cobrarImposto()
