@@ -1,0 +1,13 @@
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.exe
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.deps.json
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.runtimeconfig.json
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.runtimeconfig.dev.json
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.dll
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\bin\Debug\netcoreapp3.1\ExercicioGFT1.pdb
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.csprojAssemblyReference.cache
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.AssemblyInfoInputs.cache
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.AssemblyInfo.cs
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.csproj.CoreCompileInputs.cache
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.dll
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.pdb
+C:\Users\estel\Desktop\GFT\ExercicioGFT1\ExercicioGFT1\obj\Debug\netcoreapp3.1\ExercicioGFT1.genruntimeconfig.cache

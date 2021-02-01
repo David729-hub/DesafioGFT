@@ -1,0 +1,13 @@
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.exe
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.deps.json
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.runtimeconfig.json
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.runtimeconfig.dev.json
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.dll
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\bin\Debug\netcoreapp3.1\Exercio2e3GFT.pdb
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.csprojAssemblyReference.cache
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.AssemblyInfoInputs.cache
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.AssemblyInfo.cs
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.csproj.CoreCompileInputs.cache
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.dll
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.pdb
+C:\Users\estel\Desktop\GFT\Exercio2e3GFT\Exercio2e3GFT\obj\Debug\netcoreapp3.1\Exercio2e3GFT.genruntimeconfig.cache

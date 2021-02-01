@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercio2e3GFT/1.0.0": {
+        "runtime": {
+          "Exercio2e3GFT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercio2e3GFT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
